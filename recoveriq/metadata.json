@@ -1,0 +1,6 @@
+{
+  "name": "RecoverIQ",
+  "description": "Autonomous AI revenue recovery agent for merchants to diagnose at-risk payments, enforce policy safety checks, execute recovery actions, and measure actual recovered revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
